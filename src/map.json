@@ -1,0 +1,17 @@
+{
+  "colors": [
+    "blue",
+    "yellow",
+    "green",
+    "black",
+    "gray",
+    "red"
+  ],
+  "center":
+  {
+    "x" : 50.454,
+    "y" : 3.951
+  },
+  "zoom": 8,
+  "linesDefault" : false
+}
